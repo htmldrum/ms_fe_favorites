@@ -1,0 +1,15 @@
+[submodule "underscore"]
+	path = underscore
+	url = git@github.com:jashkenas/underscore.git
+[submodule "jquery"]
+	path = jquery
+	url = git@github.com:jquery/jquery.git
+[submodule "mithril.js"]
+	path = mithril.js
+	url = git@github.com:lhorie/mithril.js.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = git@github.com:twbs/bootstrap.git
+[submodule "async"]
+	path = async
+	url = git@github.com:caolan/async.git
